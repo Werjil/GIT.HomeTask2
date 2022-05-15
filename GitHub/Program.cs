@@ -11,6 +11,7 @@ namespace GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Коммит 1");
+            Console.WriteLine("Коммит 2");
         }
     }
 }
