@@ -10,7 +10,7 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Коммит 1");
         }
     }
 }
